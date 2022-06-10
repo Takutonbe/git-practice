@@ -1,4 +1,3 @@
 hoge
 yyy
 atu
-aa
